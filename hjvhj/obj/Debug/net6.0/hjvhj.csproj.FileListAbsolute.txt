@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\hjvhj.exe
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\hjvhj.deps.json
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\hjvhj.runtimeconfig.json
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\hjvhj.dll
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\ref\hjvhj.dll
+C:\Users\Admin\Documents\hjvhj\bin\Debug\net6.0\hjvhj.pdb
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.AssemblyInfo.cs
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.dll
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\ref\hjvhj.dll
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.pdb
+C:\Users\Admin\Documents\hjvhj\obj\Debug\net6.0\hjvhj.genruntimeconfig.cache
